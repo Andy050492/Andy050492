@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Andy
-- 👀 I’m interested in Digital Marketing
-- 🌱 I’m currently learning in SMM
-- 💞️ I’m looking to collaborate on SMM
+- 👀 I’m interested in SWIFT
+- 🌱 I’m currently learning in swift
+- 💞️ I’m looking to collaborate on mobile develpment
 - 📫 How to reach me ...Inbox me at dyrivera91@gmail.com
 
 <!---
